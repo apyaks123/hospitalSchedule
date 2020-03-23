@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1584767339 source:c:\users\limp_\onedrive\desktop\hosschedule\main.cpp
+	<iostream>
+	"doctorCheckin.h"
+	<fstream>
+
+1584152602 source:c:\users\limp_\onedrive\desktop\hosschedule\src\doctorcheckin.cpp
+	<iostream>
+	<string>
+	<vector>
+	<functional>
+	"doctorCheckin.h"
+
+1584760794 source:c:\users\limp_\onedrive\desktop\hosschedule\src\patientcheckin.cpp
+	<iostream>
+	<string>
+	<vector>
+	<functional>
+	"doctorCheckin.h"
+
+1584765528 c:\users\limp_\onedrive\desktop\hosschedule\include\doctorcheckin.h
+	<iostream>
+	<string>
+	<vector>
+	<functional>
+
+1584765022 source:c:\users\limp_\onedrive\desktop\hosschedule\src\doctorcheckout.cpp
+	<iostream>
+	<string>
+	<vector>
+	<functional>
+	"doctorCheckin.h"
+
+1584765751 source:c:\users\limp_\onedrive\desktop\hosschedule\src\patientcheckout.cpp
+	<iostream>
+	<string>
+	<vector>
+	<functional>
+	"doctorCheckin.h"
+
